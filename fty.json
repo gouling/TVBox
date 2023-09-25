@@ -83,6 +83,91 @@
             "changeable": 1
         },
         {
+            "key": "蚂蚁",
+            "name": "🐜 蚂蚁",
+            "type": 3,
+            "api": "csp_Mayiys",
+            "ext": "http://rzys.xyz",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "毛驴",
+            "name": "🍓 毛驴",
+            "type": 3,
+            "api": "csp_Maolv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "奥特",
+            "name": "🏝 奥特",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "在线",
+            "name": "📗 在线",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "ext": "https://www.zxzj.pro/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "比特",
+            "name": "🍄 比特",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "利播",
+            "name": "🌟 利播",
+            "type": 3,
+            "api": "csp_Libvio",
+            "ext": "https://www.libvio.pro/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "探探",
+            "name": "🏵 影探",
+            "type": 3,
+            "api": "csp_YTVIP",
+            "ext": "vip.lyyytv.cn",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "哈喽",
+            "name": "✌ 哈喽",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "ext": "http://www.miniku.cc/xgapp.php/v1/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
             "key": "低端",
             "name": "♻️ 低端",
             "type": 3,
@@ -159,6 +244,16 @@
             "name": "🍋 芒果",
             "type": 3,
             "api": "csp_Mtv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "三三",
+            "name": "📺 三三",
+            "type": 3,
+            "api": "csp_SP33",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
