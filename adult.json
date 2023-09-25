@@ -25,280 +25,156 @@
             "api": "csp_Miss"
         },
         {
-            "key": "Supjav",
-            "name": "SUPJAV",
-            "type": 3,
-            "api": "csp_Supjav"
-        },
-        {
-            "key": "Hanime",
-            "name": "HANIME",
-            "type": 3,
-            "api": "csp_Hanime"
-        },
-        {
-            "key": "secj8.com",
-            "name": "ADULT | 04",
-            "type": 0,
-            "api": "http://secj8.com/inc/sapi.php?ac=videolist"
-        },
-        {
             "key": "cjmygzy.com",
-            "name": "ADULT | 07",
+            "name": "06",
             "type": 0,
             "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist"
         },
         {
             "key": "bttcj.com",
-            "name": "ADULT | 08",
+            "name": "07",
             "type": 0,
             "api": "http://bttcj.com/inc/sapi.php"
         },
         {
+            "key": "api.sexnguon.com",
+            "name": "08",
+            "type": 1,
+            "api": "http://api.sexnguon.com/api.php/provide/vod/"
+        },
+        {
             "key": "apilj.com",
-            "name": "ADULT | 09",
+            "name": "09",
             "type": 1,
             "api": "http://apilj.com/api.php/provide/vod/at/json/"
         },
         {
             "key": "dadiapi.com",
-            "name": "ADULT | 10",
+            "name": "10",
             "type": 0,
             "api": "http://dadiapi.com/api.php"
         },
         {
-            "key": "api.putaozy.net",
-            "name": "ADULT | 11",
-            "type": 1,
-            "api": "http://api.putaozy.net/inc/apijson_vod.php",
-            "searchable": 0,
-            "quickSearch": 0
+            "key": "f2dcj6.com",
+            "name": "11",
+            "type": 0,
+            "api": "http://f2dcj6.com/sapi?ac=videolist"
         },
         {
-            "key": "酷豆",
-            "name": "ADULT | 17",
+            "key": "fhapi9.com",
+            "name": "12",
             "type": 1,
-            "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/"
+            "api": "http://fhapi9.com/api.php/provide/vod/"
         },
         {
             "key": "ggmmzy.com",
-            "name": "ADULT | 18",
+            "name": "15",
             "type": 0,
             "api": "http://www.ggmmzy.com:9999/inc/xml",
             "searchable": 0,
             "quickSearch": 0
         },
         {
-            "key": "sdszyapi.com",
-            "name": "ADULT | 21",
+            "key": "lbapiby.com",
+            "name": "25",
             "type": 0,
-            "api": "http://sdszyapi.com/home/cjapi/asbb/mc10/vod/xml"
-        },
-        {
-            "key": "madouse.la",
-            "name": "ADULT | 23",
-            "type": 1,
-            "api": "http://madouse.la/api.php/provide/vod/"
-        },
-        {
-            "key": "caiji21.com",
-            "name": "ADULT | 24",
-            "type": 0,
-            "api": "http://www.caiji21.com/home/cjapi/klkl/mc10/vod/xml"
+            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
         },
         {
             "key": "feifei67.com",
-            "name": "ADULT | 26",
+            "name": "26",
             "type": 1,
             "api": "http://www.feifei67.com/api.php/provide/vod/"
         },
         {
-            "key": "caiji26.com",
-            "name": "ADULT | 27",
-            "type": 0,
-            "api": "http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml"
-        },
-        {
-            "key": "caiji24.com",
-            "name": "ADULT | 28",
-            "type": 0,
-            "api": "http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml"
+            "key": "madouse.la",
+            "name": "27",
+            "type": 1,
+            "api": "http://madouse.la/api.php/provide/vod/"
         },
         {
             "key": "xrbsp.com",
-            "name": "ADULT | 30",
+            "name": "30",
             "type": 0,
             "api": "https://www.xrbsp.com/api/xml.php"
         },
         {
-            "key": "caiji.huakuiapi.com",
-            "name": "ADULT | 31",
-            "type": 1,
-            "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
             "key": "msnii.com",
-            "name": "ADULT | 32",
+            "name": "32",
             "type": 0,
             "api": "https://www.msnii.com/api/xml.php"
         },
         {
-            "key": "mgzyz1.com",
-            "name": "ADULT | 33",
+            "key": "api.maozyapi.com",
+            "name": "33",
             "type": 1,
-            "api": "https://mgzyz1.com/api.php/provide/vod/"
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php"
         },
         {
             "key": "kkzy.me",
-            "name": "ADULT | 34",
+            "name": "34",
             "type": 1,
             "api": "https://kkzy.me/api.php/provide/vod/"
         },
         {
+            "key": "888dav.com",
+            "name": "35",
+            "type": 1,
+            "api": "https://www.888dav.com/api.php/provide/vod/"
+        },
+        {
+            "key": "caiji.huakuiapi.com",
+            "name": "36",
+            "type": 1,
+            "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
+        },
+        {
             "key": "afasu.com",
-            "name": "ADULT | 37",
+            "name": "37",
             "type": 0,
             "api": "https://www.afasu.com/api/xml.php"
         },
         {
-            "key": "gdlsp.com",
-            "name": "ADULT | 38",
-            "type": 0,
-            "api": "https://www.gdlsp.com/api/xml.php"
-        },
-        {
             "key": "shayuapi.com",
-            "name": "ADULT | 39",
+            "name": "39",
             "type": 1,
             "api": "https://shayuapi.com/api.php/provide/vod/"
         },
         {
-            "key": "52zyapi.com",
-            "name": "ADULT | 41",
+            "key": "pgxdy.com",
+            "name": "40",
             "type": 0,
-            "api": "https://52zyapi.com/home/cjapi/asda/mc10/vod/xml"
-        },
-        {
-            "key": "kxgav.com",
-            "name": "ADULT | 43",
-            "type": 0,
-            "api": "https://www.kxgav.com/api/xml.php"
+            "api": "https://www.pgxdy.com/api/xml.php"
         },
         {
             "key": "lbapi9.com",
-            "name": "ADULT | 44",
+            "name": "44",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/"
         },
         {
-            "key": "xx55zyapi.com",
-            "name": "ADULT | 45",
+            "key": "kxgav.com",
+            "name": "48",
             "type": 0,
-            "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml"
+            "api": "https://www.kxgav.com/api/xml.php"
         },
         {
-            "key": "apittzy.com",
-            "name": "ADULT | 46",
-            "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/"
-        },
-        {
-            "key": "dmmapi.com",
-            "name": "ADULT | 47",
+            "key": "gdlsp.com",
+            "name": "49",
             "type": 0,
-            "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml"
-        },
-        {
-            "key": "caiji01.com",
-            "name": "ADULT | 48",
-            "type": 0,
-            "api": "https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml"
-        },
-        {
-            "key": "caiji07.com",
-            "name": "ADULT | 49",
-            "type": 0,
-            "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml"
-        },
-        {
-            "key": "caiji22.com",
-            "name": "ADULT | 50",
-            "type": 0,
-            "api": "https://www.caiji22.com/home/cjapi/klp0/mc10/vod/xml"
-        },
-        {
-            "key": "caiji10.com",
-            "name": "ADULT | 51",
-            "type": 0,
-            "api": "https://www.caiji10.com/home/cjapi/cfs6/mc10/vod/xml"
-        },
-        {
-            "key": "caiji08.com",
-            "name": "ADULT | 52",
-            "type": 0,
-            "api": "https://www.caiji08.com/home/cjapi/cfkl/mc10/vod/xml"
-        },
-        {
-            "key": "caiji03.com",
-            "name": "ADULT | 53",
-            "type": 0,
-            "api": "https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml"
-        },
-        {
-            "key": "caiji04.com",
-            "name": "ADULT | 54",
-            "type": 0,
-            "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml"
-        },
-        {
-            "key": "caiji05.com",
-            "name": "ADULT | 56",
-            "type": 0,
-            "api": "https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml"
-        },
-        {
-            "key": "caiji02.com",
-            "name": "ADULT | 57",
-            "type": 0,
-            "api": "https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml"
+            "api": "https://www.gdlsp.com/api/xml.php"
         },
         {
             "key": "sewozyapi.com",
-            "name": "ADULT | 58",
+            "name": "50",
             "type": 1,
             "api": "https://sewozyapi.com/api.php/provide/vod/"
         },
         {
-            "key": "caiji09.com",
-            "name": "ADULT | 59",
-            "type": 0,
-            "api": "https://www.caiji09.com/home/cjapi/cfp0/mc10/vod/xml"
-        },
-        {
-            "key": "caiji23.com",
-            "name": "ADULT | 60",
-            "type": 0,
-            "api": "https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml"
-        },
-        {
-            "key": "jgczyapi.com",
-            "name": "ADULT | 61",
-            "type": 0,
-            "api": "https://jgczyapi.com/home/cjapi/kld2/mc10/vod/xml"
-        },
-        {
             "key": "api.apilyzy.com",
-            "name": "ADULT | 65",
+            "name": "52",
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/"
-        },
-        {
-            "key": "api.11bat.com",
-            "name": "ADULT | 66",
-            "type": 0,
-            "api": "http://api.11bat.com/api.php/provide/vod/at/xml"
         }
     ],
     "lives": [
@@ -350,5 +226,5 @@
             ]
         }
     ],
-    "spider": "./jar/CatVodSpider.jar;md5;805e97263746889cf1405e74ec9d0824"
+    "spider": "./jar/CatVodSpider.jar;md5;da248d3decd2fb6776b2ce39013c3e6e"
 }
