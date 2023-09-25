@@ -78,7 +78,7 @@
             "key": "lbapiby.com",
             "name": "25",
             "type": 0,
-            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+            "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "feifei67.com",
