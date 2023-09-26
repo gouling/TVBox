@@ -94,16 +94,6 @@
             "changeable": 1
         },
         {
-            "key": "毛驴",
-            "name": "🍓 毛驴",
-            "type": 3,
-            "api": "csp_Maolv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
             "key": "奥特",
             "name": "🏝 奥特",
             "type": 3,
@@ -151,17 +141,6 @@
             "type": 3,
             "api": "csp_YTVIP",
             "ext": "vip.lyyytv.cn",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "哈喽",
-            "name": "✌ 哈喽",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "ext": "http://www.miniku.cc/xgapp.php/v1/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
