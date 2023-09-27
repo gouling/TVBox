@@ -311,6 +311,16 @@
             "name": "JP",
             "type": 0,
             "url": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "name": "XF",
+            "type": 0,
+            "url": "https://jx.xmflv.com/?url="
+        },
+        {
+            "name": "PJ",
+            "type": 0,
+            "url": "https://jx.playerjy.com/?url="
         }
     ],
     "rules": [
