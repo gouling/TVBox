@@ -47,11 +47,46 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
         },
         {
-            "key": "种子",
-            "name": "✌ 种子",
+            "key": "奥特",
+            "name": "🏝 奥特",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/Auete.js"
+        },
+        {
+            "key": "在线",
+            "name": "📗 在线",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"
+        },
+        {
+            "key": "比特",
+            "name": "🍄 比特",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/两个BT.js"
+        },
+        {
+            "key": "利播",
+            "name": "🌟 利播",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
+        },
+        {
+            "key": "维夫",
+            "name": "🎈 维夫",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/voflix.js"
+        },
+        {
+            "key": "新6V",
+            "name": "🧲 磁力",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/6V新版[磁].js"
         },
         {
             "key": "8号影视",
@@ -129,6 +164,13 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/零度影视.js"
+        },
+        {
+            "key": "新视觉",
+            "name": "🐼 视觉",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视.js"
         },
         {
             "key": "优酷",
