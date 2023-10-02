@@ -136,6 +136,7 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/影探[V2].js"
+        },
         {
             "key": "优酷",
             "name": "🥝 优酷",
