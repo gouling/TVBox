@@ -15,8 +15,7 @@
             "key": "快看影视",
             "name": "👀 快看",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/快看.js"
+            "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js"
         },
         {
             "key": "酷云七七",
@@ -53,12 +52,6 @@
       "name": "愛看",
       "type": 3,
       "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js"
-    },
-    {
-      "key": "快看",
-      "name": "快看",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js"
     },
         {
       "key": "快帆",
