@@ -2,10 +2,6 @@
     "urls": [
         {
             "name": "本地",
-            "url": "./fty.json"
-        },
-        {
-            "name": "道长",
             "url": "./dr_py.json"
         },
         {
