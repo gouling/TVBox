@@ -47,6 +47,13 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/秋霞.js"
         },
         {
+            "key": "可乐",
+            "name": "📕 可乐",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/cokemv.js"
+        },
+        {
             "key": "比特",
             "name": "🍄 比特",
             "type": 3,
