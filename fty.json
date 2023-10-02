@@ -59,7 +59,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "https://cz01.cc/"
         },
         {
             "key": "影视工场",
@@ -70,7 +71,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "https://www.ysgc.fun"
+            "ext": "https://www.ysgc1.cc/"
         },
         {
             "key": "明明",
@@ -86,7 +87,7 @@
             "key": "蚂蚁",
             "name": "🐜 蚂蚁",
             "type": 3,
-            "api": "csp_Mayiys",
+            "api": "csp_MYYS",
             "ext": "http://rzys.xyz",
             "searchable": 1,
             "quickSearch": 1,
@@ -101,7 +102,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "ext": "http://www.aueteys.com/"
         },
         {
             "key": "在线",
