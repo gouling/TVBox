@@ -15,7 +15,7 @@
             "key": "快看影视",
             "name": "👀 快看",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
         },
         {
             "key": "酷云七七",
@@ -28,7 +28,7 @@
             "key": "厂长资源",
             "name": "🏭 厂长",
             "type": 3,
-            "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js"
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/czzy_open.js"
         },
         {
             "key": "蓝光影院",
