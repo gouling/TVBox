@@ -59,6 +59,13 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/cokemv.js"
         },
         {
+            "key": "在线",
+            "name": "📗 在线",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"
+        },
+        {
             "key": "比特",
             "name": "🍄 比特",
             "type": 3,
