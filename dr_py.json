@@ -94,20 +94,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/6V新版[磁].js"
         },
         {
-            "key": "8号影视",
-            "name": "🎬︎ 八号",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/8号影院.js"
-        },
-        {
-            "key": "348影视",
-            "name": "💍 三四",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/348电影网.js"
-        },
-        {
             "key": "360影视",
             "name": "🐅 奇虎",
             "type": 3,
@@ -274,7 +260,7 @@
             "changeable": 0,
             "ext": {
                 "token": "影視天下第一",
-                "filter": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/json/wogg.json"
+                "filter": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
         {
