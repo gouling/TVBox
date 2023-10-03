@@ -394,5 +394,5 @@
             ]
         }
     ],
-    "spider": "./jar/CatVodSpider.jar;md5;f5c681312ac1e3ccac064a72d92544e2"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/jar/custom_spider.jar"
 }
