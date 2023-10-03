@@ -242,7 +242,26 @@
             "name": "🗂 网盘",
             "type": 3,
             "api": "csp_AList",
-            "ext": "./api/网盘.ext.json",
+            "ext": {
+    "drives": [
+        {
+            "name": "🧚‍ 丫仙女",
+            "server": "http://cdtyk.com:6789"
+        },
+        {
+            "name": "🐋 七米蓝",
+            "server": "https://al.chirmyram.com"
+        },
+        {
+            "name": "👙‍ 杜比",
+            "server": "https://dubi.tk"
+        },
+        {
+            "name": "✨ 星梦",
+            "server": "https://pan.bashroot.top"
+        }
+    ]
+},
             "searchable": 1,
             "changeable": 0
         },
