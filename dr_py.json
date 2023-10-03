@@ -94,13 +94,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/6V新版[磁].js"
         },
         {
-            "key": "360影视",
-            "name": "🐅 奇虎",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
-        },
-        {
             "key": "凌云影视",
             "name": "☁ 凌云",
             "type": 3,
