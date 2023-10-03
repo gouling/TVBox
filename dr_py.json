@@ -25,6 +25,12 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
         },
         {
+            "key": "厂长资源",
+            "name": "🏭 厂长",
+            "type": 3,
+            "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/czzy_open.js"
+        },
+        {
             "key": "蓝光影院",
             "name": "🌀 蓝光",
             "type": 3,
@@ -191,6 +197,24 @@
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+        },
+        {
+            "key": "樱花动漫",
+            "name": "💮 樱花",
+            "type": 3,
+            "api": "csp_Ying"
+        },
+        {
+            "key": "动漫巴士",
+            "name": "🚌 巴士",
+            "type": 3,
+            "api": "csp_Dm84"
+        },
+        {
+            "key": "异界动漫",
+            "name": "🎀 异界",
+            "type": 3,
+            "api": "csp_Ysj"
         },
         {
             "key": "本地",
