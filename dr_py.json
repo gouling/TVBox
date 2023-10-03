@@ -157,12 +157,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视.js"
         },
         {
-            "key": "布雷",
-            "name": "⚡ 布雷",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bulei_open.js"
-        },
-        {
             "key": "优酷",
             "name": "🏵 优酷",
             "type": 3,
@@ -212,9 +206,7 @@
             "key": "本地",
             "name": "🖥️ 本地",
             "type": 3,
-            "api": "csp_Local",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_Local"
         },
         {
             "key": "网盘",
@@ -240,17 +232,13 @@
                         "server": "https://pan.bashroot.top"
                     }
                 ]
-            },
-            "searchable": 1,
-            "changeable": 0
+            }
         },
         {
             "key": "玩偶哥哥",
             "name": "👽 玩偶",
             "type": 3,
             "api": "csp_Wogg",
-            "searchable": 1,
-            "changeable": 0,
             "ext": {
                 "token": "影視天下第一",
                 "filter": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
@@ -260,41 +248,31 @@
             "key": "纸条",
             "name": "📜 纸条",
             "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_XiaoZhiTiao"
         },
         {
             "key": "七夜",
             "name": "😾 七夜",
             "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_Dovx"
         },
         {
             "key": "阿里盘搜",
             "name": "🦌 盘搜",
             "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_PanSou"
         },
         {
             "key": "PanSearch",
             "name": "🙀 盘搜",
             "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_PanSearch"
         },
         {
             "key": "阿里云搜",
             "name": "☁️ 云搜",
             "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_UpYun"
         }
     ],
     "lives": [
