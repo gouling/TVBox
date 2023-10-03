@@ -178,6 +178,12 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/新视觉影视.js"
         },
         {
+            "key": "布雷",
+            "name": "⚡ 布雷",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bulei_open.js"
+        },
+        {
             "key": "优酷",
             "name": "🏵 优酷",
             "type": 3,
@@ -248,8 +254,8 @@
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "token": "./api/ali.token",
-                "filter": "./api/玩偶.ext.json"
+                "token": "影視天下第一",
+                "filter": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/json/wogg.json"
             }
         },
         {
