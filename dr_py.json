@@ -18,6 +18,12 @@
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
         },
         {
+            "key": "暴风",
+            "name": "🌀 暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod"
+        },
+        {
             "key": "酷云七七",
             "name": "🌈 七七",
             "type": 3,
@@ -375,5 +381,6 @@
             ]
         }
     ],
-    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+    "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"，
+    "wallpaper": "http://饭太硬.top/深色壁纸/api.php"
 }
