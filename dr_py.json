@@ -240,7 +240,7 @@
             "type": 3,
             "api": "csp_Wogg",
             "ext": {
-                "token": "66d58b4d5542497eac4b770eacb45824",
+                "token": "./ali.token",
                 "filter": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
@@ -248,31 +248,36 @@
             "key": "纸条",
             "name": "📜 纸条",
             "type": 3,
-            "api": "csp_XiaoZhiTiao"
+            "api": "csp_XiaoZhiTiao",
+            "ext": "./ali.token"
         },
         {
             "key": "七夜",
             "name": "😾 七夜",
             "type": 3,
-            "api": "csp_Dovx"
+            "api": "csp_Dovx",
+            "ext": "./ali.token"
         },
         {
             "key": "阿里盘搜",
             "name": "🦌 盘搜",
             "type": 3,
-            "api": "csp_PanSou"
+            "api": "csp_PanSou",
+            "ext": "./ali.token"
         },
         {
             "key": "PanSearch",
             "name": "🙀 盘搜",
             "type": 3,
-            "api": "csp_PanSearch"
+            "api": "csp_PanSearch",
+            "ext": "./ali.token"
         },
         {
             "key": "阿里云搜",
             "name": "☁️ 云搜",
             "type": 3,
-            "api": "csp_UpYun"
+            "api": "csp_UpYun",
+            "ext": "./ali.token"
         }
     ],
     "lives": [
