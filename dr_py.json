@@ -240,7 +240,7 @@
             "type": 3,
             "api": "csp_Wogg",
             "ext": {
-                "token": "影視天下第一",
+                "token": "66d58b4d5542497eac4b770eacb45824",
                 "filter": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
