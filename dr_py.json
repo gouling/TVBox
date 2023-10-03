@@ -24,12 +24,6 @@
             "api": "https://bfzyapi.com/api.php/provide/vod"
         },
         {
-            "key": "厂长资源",
-            "name": "🏭 厂长",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/czzy_open.js"
-        },
-        {
             "key": "酷云七七",
             "name": "🌈 七七",
             "type": 3,
