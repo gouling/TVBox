@@ -13,6 +13,8 @@ https://agit.ai/138001380000/MHQTV
 https://www.similarweb.com/top-websites/category/adult/
 https://qiqi2020.lanzoub.com/b09svqv1c
 
+https://img.xjh.me/random_img.php
+https://www.dmoe.cc/random.php
 https://bing.img.run/rand.php
 https://api.btstu.cn/sjbz/api.php
 https://api.lyiqk.cn/scenery
