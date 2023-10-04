@@ -12,14 +12,7 @@
             "changeable": 0
         },
         {
-            "key": "道长|量子资源",
-            "name": "🔊 量子",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
-        },
-        {
-            "key": "接口|量子资源",
+            "key": "量子资源",
             "name": "🔊 量子",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -53,7 +46,7 @@
             ]
         },
         {
-            "key": "接口|非凡资源",
+            "key": "非凡资源",
             "name": "️🚀 非凡",
             "type": 1,
             "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
@@ -87,7 +80,7 @@
             ]
         },
         {
-            "key": "接口|暴风资源",
+            "key": "暴风资源",
             "name": "🌪 暴风",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
@@ -122,7 +115,41 @@
             ]
         },
         {
-            "key": "蜂蜜|快看影视",
+            "key": "索尼资源",
+            "name": "➰ 索尼",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/",
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "海外剧",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "记录片",
+                "伦理片"
+            ]
+        },
+        {
+            "key": "快看影视",
             "name": "👀 快看",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
