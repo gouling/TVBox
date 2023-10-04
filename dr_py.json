@@ -12,28 +12,9 @@
             "changeable": 0
         },
         {
-            "key": "快看影视",
-            "name": "👀 快看",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
-        },
-        {
-            "key": "暴风",
-            "name": "🌪 暴风",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod"
-        },
-        {
-            "key": "酷云七七",
-            "name": "🌈 七七",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
-        },
-        {
             "key": "量子影视",
             "name": "🔊 量子",
-            "type": 1,
+            "type": 0,
             "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml/"
         },
         {
@@ -69,6 +50,25 @@
                 "欧美综艺",
                 "伦理片"
             ]
+        },
+        {
+            "key": "快看影视",
+            "name": "👀 快看",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
+        },
+        {
+            "key": "暴风",
+            "name": "🌪 暴风",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "酷云七七",
+            "name": "🌈 七七",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
         },
         {
             "key": "低端",
