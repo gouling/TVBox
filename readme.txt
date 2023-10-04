@@ -17,5 +17,3 @@ https://picsum.photos/1920/1080
 https://bing.img.run/rand.php
 https://source.unsplash.com/user/erondu/1920x1080
 https://api.lyiqk.cn/scenery
-
-https://api.suyanw.cn/api/comic/api.php
