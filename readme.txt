@@ -13,9 +13,11 @@ https://agit.ai/138001380000/MHQTV
 https://www.similarweb.com/top-websites/category/adult/
 https://qiqi2020.lanzoub.com/b09svqv1c
 
+https://bing.img.run/rand.php
 https://img.xjh.me/random_img.php
 https://www.dmoe.cc/random.php
-https://bing.img.run/rand.php
+https://api.dujin.org/pic/yuanshen/
+https://api.paugram.com/wallpaper/?source=sm
 https://api.btstu.cn/sjbz/api.php
 https://api.lyiqk.cn/scenery
 https://picsum.photos/1920/1080
