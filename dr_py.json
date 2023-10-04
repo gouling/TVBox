@@ -38,13 +38,6 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"
         },
         {
-            "key": "蓝光影院",
-            "name": "🌀 蓝光",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/蓝光影院.js"
-        },
-        {
             "key": "低端",
             "name": "♻️ 低端",
             "type": 3,
@@ -165,7 +158,7 @@
         },
         {
             "key": "优酷",
-            "name": "🏵 优酷",
+            "name": "▶ 优酷",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
