@@ -31,6 +31,13 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
         },
         {
+            "key": "乐猪TV",
+            "name": "🐖 乐猪",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/乐猪TV.js"
+        },
+        {
             "key": "蓝光影院",
             "name": "🌀 蓝光",
             "type": 3,
