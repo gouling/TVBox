@@ -91,10 +91,10 @@
             "type": 1,
             "api": "http://kuaikan-api.com/api.php/provide/vod/",
             "categories": [
-                "电影片",
+                "电影",
                 "连续剧",
-                "动漫片",
-                "综艺片"
+                "综艺",
+                "动漫"
             ]
         },
         {
