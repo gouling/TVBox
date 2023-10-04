@@ -33,9 +33,8 @@
         {
             "key": "量子影视",
             "name": "🔊 量子",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/量子影视.js"
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml/"
         },
         {
             "key": "非凡采集",
