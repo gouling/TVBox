@@ -121,7 +121,6 @@ CCTV17,https://cntv.sbs/tv?auth=230927&id=cctv17
 热门剧场,https://cntv.sbs/tv?auth=230927&id=rmjc
 热门综艺,https://cntv.sbs/tv?auth=230927&id=rmzy
 宝宝动画,https://cntv.sbs/tv?auth=230927&id=bbdh
-凤凰中文,https://cntv.sbs/tv/cbn.php?id=xfjcHD
 CHC动作电影,http://cntv.sbs/tv/cbn.php?id=chcdzdyHD
 CHC家庭影院,http://cntv.sbs/tv/cbn.php?id=chcjtyyHD
 CHC高清电影,http://cntv.sbs/tv/cbn.php?id=chcgqdyHD
