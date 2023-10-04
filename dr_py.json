@@ -14,7 +14,7 @@
         {
             "key": "量子影视",
             "name": "🔊 量子",
-            "type": 0,
+            "type": 1,
             "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml/"
         },
         {
