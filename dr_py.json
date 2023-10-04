@@ -89,7 +89,13 @@
             "key": "快看影视",
             "name": "👀 快看",
             "type": 1,
-            "api": "http://kuaikan-api.com/api.php/provide/vod/"
+            "api": "http://kuaikan-api.com/api.php/provide/vod/",
+            "categories": [
+                "电视剧",
+                "电影",
+                "动漫",
+                "综艺"
+            ]
         },
         {
             "key": "酷云七七",
