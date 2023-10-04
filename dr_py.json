@@ -31,11 +31,11 @@
             "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"
         },
         {
-            "key": "乐猪TV",
-            "name": "🐖 乐猪",
+            "key": "酷客影院",
+            "name": "🕶 酷客",
             "type": 3,
             "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/乐猪TV.js"
+            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷客影院.js"
         },
         {
             "key": "蓝光影院",
