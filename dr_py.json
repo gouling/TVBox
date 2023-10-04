@@ -52,16 +52,16 @@
             ]
         },
         {
-            "key": "快看影视",
-            "name": "👀 快看",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
-        },
-        {
             "key": "暴风",
             "name": "🌪 暴风",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod"
+        },
+        {
+            "key": "快看影视",
+            "name": "👀 快看",
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
         },
         {
             "key": "酷云七七",
