@@ -83,13 +83,24 @@
             "key": "暴风",
             "name": "🌪 暴风",
             "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod"
+            "api": "https://bfzyapi.com/api.php/provide/vod/"
         },
         {
             "key": "快看影视",
             "name": "👀 快看",
-            "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
+            "type": 1,
+            "api": "https://kuaikan-api.com/api.php/provide/vod/",
+            "categories": [
+                "韩国剧",
+                "欧美剧",
+                "动作片",
+                "科幻片",
+                "爱情片",
+                "综艺",
+                "动漫",
+                "记录片",
+                "伦理片"
+            ]
         },
         {
             "key": "酷云七七",
