@@ -88,8 +88,8 @@
         {
             "key": "快看影视",
             "name": "👀 快看",
-            "type": 1,
-            "api": "http://kuaikan-api.com/api.php/provide/vod/"
+            "type": 3,
+            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
         },
         {
             "key": "酷云七七",
