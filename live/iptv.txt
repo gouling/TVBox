@@ -191,7 +191,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
 TVBS Live,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TVBS 新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞台灣,https://www.youtube.com/watch?v=UcTIv4ZaE5Y
 大愛一臺,https://www.youtube.com/watch?v=MIqUplvSRWA
