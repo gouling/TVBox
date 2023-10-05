@@ -526,21 +526,21 @@
             "ua": "okhttp/4.11.0",
             "url": "./live/iptv.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "logo": "https://upload.112114.xyz/logo/{name}.png"
         },
         {
             "name": "南风",
             "type": 0,
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "logo": "https://upload.112114.xyz/logo/{name}.png"
         },
         {
             "name": "明明",
             "type": 0,
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
+            "logo": "https://upload.112114.xyz/logo/{name}.png"
         }
     ],
     "parses": [
