@@ -256,6 +256,18 @@
             ]
         },
         {
+            "key": "秒看资源",
+            "name": "⏱️ 秒看",
+            "type": 1,
+            "api": "https://www.xy1080.net/api.php/provide/vod/",
+            "categories": [
+                "电影",
+                "电视剧",
+                "动漫",
+                "综艺"
+            ]
+        },
+        {
             "key": "快看影视",
             "name": "👀 快看",
             "type": 3,
@@ -553,6 +565,11 @@
             "name": "SEQ",
             "type": 2,
             "url": "Sequence"
+        },
+        {
+            "name": "FC",
+            "type": 1,
+            "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
         },
         {
             "name": "JP",
