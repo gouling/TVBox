@@ -1,21 +1,9 @@
 <?php
-$raw = file_get_contents('https://guihet.com/myajax.html', false, stream_context_create([
+$raw = file_get_contents('https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/global.m3u', false, stream_context_create([
     'http' => [
         'timeout' => 30,
-        'method' => 'POST',
+        'method' => 'GET',
         'header' => 'Content-Type: application/x-www-form-urlencoded; charset=utf-8',
-        'content' => http_build_query([
-            'TXT' => 2,
-            'zbytxt' => file_get_contents('https://live.fanmingming.com/tv/m3u/global.m3u', false, stream_context_create([
-                'http' => [
-                    'method' => 'GET',
-                ],
-                'ssl' => [
-                    'verify_peer' => false,
-                    'verify_peer_name' => false,
-                ]
-            ]))
-        ])
     ],
     'ssl' => [
         'verify_peer' => false,
