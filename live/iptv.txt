@@ -183,7 +183,7 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 港台,#genre#
 中文国际,https://www.youtube.com/watch?v=9sE12tg3CmA
-鳳凰資訊,https://www.youtube.com/watch?v=if6yQq_JJyY
+鳳凰資訊,https://www.youtube.com/watch?v=LgQXkmWxlVY
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -192,8 +192,6 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 東森新聞ㆍ全球,https://www.youtube.com/watch?v=Dn-LI8xzu7I
 東森新聞ㆍ台湾,https://www.youtube.com/watch?v=S5WOGu2HSes
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
-三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
-三立iNEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 TVBS Live,https://www.youtube.com/watch?v=YvdcZ_jpLXE
 TVBS News,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS 新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
