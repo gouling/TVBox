@@ -622,7 +622,7 @@
     ],
     "rules": [
         {
-            "name": "暴風",
+            "name": "🌪 暴风",
             "hosts": [
                 "bfzy"
             ],
@@ -631,16 +631,7 @@
             ]
         },
         {
-            "name": "星星",
-            "hosts": [
-                "aws.ulivetv.net"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
-        },
-        {
-            "name": "量子",
+            "name": "🔊 量子",
             "hosts": [
                 "vip.lz",
                 "hd.lz",
@@ -652,7 +643,7 @@
             ]
         },
         {
-            "name": "非凡",
+            "name": "🚀 非凡",
             "hosts": [
                 "vip.ffzy",
                 "hd.ffzy"
