@@ -528,13 +528,6 @@
             }
         },
         {
-            "key": "纸条",
-            "name": "📜 纸条",
-            "type": 3,
-            "api": "csp_XiaoZhiTiao",
-            "ext": "./ali.token"
-        },
-        {
             "key": "七夜",
             "name": "😾 七夜",
             "type": 3,
