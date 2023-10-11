@@ -186,6 +186,8 @@ CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212269
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
 台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+三立iNEWS,https://www.youtube.com/watch?v=CKjSm5ZeehE
+三立iNEWS+,https://www.youtube.com/watch?v=oZdzzvxTfUY
 東森新聞ㆍ全球,https://www.youtube.com/watch?v=Dn-LI8xzu7I
 東森新聞ㆍ台湾,https://www.youtube.com/watch?v=S5WOGu2HSes
 公視新聞,https://www.youtube.com/watch?v=quwqlazU-c8
