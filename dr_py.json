@@ -500,14 +500,18 @@
                 "drives": [
                     {
                         "name": "🗂 丫仙女",
-                        "server": "https://www.cdtyk.com:6789"
+                        "server": "https://www.cdtyk.com:6789",
+                        "login": {
+                            "username": "dav",
+                            "password": "dav-xiaoya-gouling"
+                        }
                     },
                     {
                         "name": "🗂 集中地",
                         "server": "http://www.cdtyk.com:5244",
                         "login": {
                             "username": "admin",
-                            "password": "0417java0504flex"
+                            "password": "alist-pikpak-gouling"
                         }
                     }
                 ]
