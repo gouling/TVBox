@@ -260,12 +260,7 @@
             "name": "⏱️ 秒看",
             "type": 1,
             "api": "https://www.xy1080.net/api.php/provide/vod/",
-            "categories": [
-                "电影",
-                "电视剧",
-                "动漫",
-                "综艺"
-            ]
+            "categories": ["电影", "电视剧", "动漫", "综艺"]
         },
         {
             "key": "快车资源",
@@ -616,20 +611,12 @@
     "rules": [
         {
             "name": "🌪 暴风",
-            "hosts": [
-                "bfzy"
-            ],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
-            ]
+            "hosts": ["bfzy"],
+            "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
         },
         {
             "name": "🔊 量子",
-            "hosts": [
-                "vip.lz",
-                "hd.lz",
-                "v.cdnlz"
-            ],
+            "hosts": ["vip.lz", "hd.lz", "v.cdnlz"],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
@@ -637,10 +624,7 @@
         },
         {
             "name": "🚀 非凡",
-            "hosts": [
-                "vip.ffzy",
-                "hd.ffzy"
-            ],
+            "hosts": ["vip.ffzy", "hd.ffzy"],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
@@ -648,21 +632,13 @@
         },
         {
             "name": "火山嗅探",
-            "hosts": [
-                "huoshan.com"
-            ],
-            "regex": [
-                "item_id="
-            ]
+            "hosts": ["huoshan.com"],
+            "regex": ["item_id="]
         },
         {
             "name": "抖音嗅探",
-            "hosts": [
-                "douyin.com"
-            ],
-            "regex": [
-                "is_play_url="
-            ]
+            "hosts": ["douyin.com"],
+            "regex": ["is_play_url="]
         }
     ],
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
