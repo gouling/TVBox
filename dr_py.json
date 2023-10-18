@@ -714,6 +714,11 @@
     ],
     "rules": [
         {
+            "name": "极速",
+            "hosts": ["jisu"],
+            "regex": ["#EXT-X-DISCONTINUITY\r*\n*[sS]*?#EXT-X-DISCONTINUITY"]
+        },
+        {
             "name": "索尼",
             "hosts": ["suonizy"],
             "regex": [
