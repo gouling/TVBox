@@ -330,8 +330,7 @@
             "key": "快看影视",
             "name": "👀 快看",
             "type": 3,
-            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/快看.js"
+            "api": "https://kuaikan-api.com/api.php/provide/vod/"
         },
         {
             "key": "酷云七七",
