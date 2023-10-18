@@ -256,11 +256,10 @@
             ]
         },
         {
-            "key": "星影视频",
-            "name": "⭐️ 星影",
+            "key": "电影票房排行榜",
+            "name": "🔥 IMDB",
             "type": 1,
-            "api": "https://www.xy1080.net/api.php/provide/vod/",
-            "categories": ["电影", "电视剧", "动漫", "综艺"]
+            "api": "https://api.imdb123.com/api.php/provide/vod/"
         },
         {
             "key": "快车资源",
