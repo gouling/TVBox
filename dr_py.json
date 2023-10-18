@@ -360,7 +360,8 @@
             "key": "快看影视",
             "name": "👀 快看",
             "type": 3,
-            "api": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/kkys_open.js"
+            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
+            "ext": "https://hjdhnx.github.io/dr_py/js/快看.js"
         },
         {
             "key": "酷云七七",
