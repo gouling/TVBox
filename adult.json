@@ -25,6 +25,12 @@
             "api": "https://timizy10.cc/api.php/provide/vod/"
         },
         {
+            "key": "辣椒 ",
+            "name": "辣椒",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/at/xml/"
+        },
+        {
             "key": "jable.tv",
             "name": "JABLE",
             "type": 3,
