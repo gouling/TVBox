@@ -400,6 +400,12 @@
             ]
         },
         {
+            "key": "极速采集",
+            "name": "⚡️ 极速",
+            "type": 1,
+            "api": "https://jszyapi.com/api.php/provide/vod/"
+        },
+        {
             "key": "酷云七七",
             "name": "🌈 七七",
             "type": 3,
