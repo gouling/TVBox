@@ -37,6 +37,19 @@
             "api": "csp_Miss"
         },
         {
+            "key": "dadiapi.com",
+            "name": "01",
+            "type": 0,
+            "api": "http://dadiapi.com/api.php"
+        },
+
+        {
+            "key": "apilj.com",
+            "name": "03",
+            "type": 1,
+            "api": "https://apilj.com/api.php/provide/vod/"
+        },
+        {
             "key": "cjmygzy.com",
             "name": "06",
             "type": 0,
@@ -53,18 +66,6 @@
             "name": "08",
             "type": 1,
             "api": "http://api.sexnguon.com/api.php/provide/vod/"
-        },
-        {
-            "key": "apilj.com",
-            "name": "09",
-            "type": 1,
-            "api": "https://apilj.com/api.php/provide/vod/"
-        },
-        {
-            "key": "dadiapi.com",
-            "name": "10",
-            "type": 0,
-            "api": "http://dadiapi.com/api.php"
         },
         {
             "key": "f2dcj6.com",
