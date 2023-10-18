@@ -588,11 +588,6 @@
             "url": "Sequence"
         },
         {
-            "name": "LB",
-            "type": 1,
-            "url": "https://jx.zhanlangbu.com/?url="
-        },
-        {
             "name": "FC",
             "type": 1,
             "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
