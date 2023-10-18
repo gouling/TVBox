@@ -13,6 +13,18 @@
             "api": "csp_Eighteen"
         },
         {
+            "key": "玉兔",
+            "name": "玉兔",
+            "type": 1,
+            "api": "https://apiyutu.com/api.php/provide/vod/"
+        },
+        {
+            "key": "甜蜜",
+            "name": "甜蜜",
+            "type": 1,
+            "api": "https://timizy10.cc/api.php/provide/vod/"
+        },
+        {
             "key": "jable.tv",
             "name": "JABLE",
             "type": 3,
