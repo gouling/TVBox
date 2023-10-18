@@ -467,13 +467,6 @@
             ]
         },
         {
-            "key": "酷云七七",
-            "name": "🌈 七七",
-            "type": 3,
-            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/酷云77.js"
-        },
-        {
             "key": "低端",
             "name": "♻️ 低端",
             "type": 3,
@@ -486,13 +479,6 @@
             "type": 3,
             "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
             "ext": "https://hjdhnx.github.io/dr_py/js/秋霞.js"
-        },
-        {
-            "key": "可乐",
-            "name": "📕 可乐",
-            "type": 3,
-            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/cokemv.js"
         },
         {
             "key": "在线",
@@ -549,13 +535,6 @@
             "type": 3,
             "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
             "ext": "https://hjdhnx.github.io/dr_py/js/孜然影视.js"
-        },
-        {
-            "key": "西瓜影院",
-            "name": "🍉 西瓜",
-            "type": 3,
-            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/西瓜影院.js"
         },
         {
             "key": "素白白",
@@ -632,18 +611,6 @@
             "name": "💮 樱花",
             "type": 3,
             "api": "csp_Ying"
-        },
-        {
-            "key": "动漫巴士",
-            "name": "🚌 巴士",
-            "type": 3,
-            "api": "csp_Dm84"
-        },
-        {
-            "key": "异界动漫",
-            "name": "🎀 异界",
-            "type": 3,
-            "api": "csp_Ysj"
         },
         {
             "key": "本地",
