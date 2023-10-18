@@ -319,6 +319,12 @@
             ]
         },
         {
+            "key": "无尽资源",
+            "name": "🔥 无尽",
+            "type": "1",
+            "api": "https://api.wujinapi.me/api.php/provide/vod"
+        },
+        {
             "key": "快看影视",
             "name": "👀 快看",
             "type": 3,
