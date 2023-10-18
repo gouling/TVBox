@@ -436,6 +436,12 @@
             ]
         },
         {
+            "key": "飞马",
+            "name": "🐎 飞马",
+            "type": 1,
+            "api": "https://rise.eu.org/api.php/provide/vod/"
+        },
+        {
             "key": "酷云七七",
             "name": "🌈 七七",
             "type": 3,
