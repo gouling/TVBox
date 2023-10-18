@@ -610,12 +610,12 @@
     ],
     "rules": [
         {
-            "name": "🌪 暴风",
+            "name": "暴風",
             "hosts": ["bfzy"],
             "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
         },
         {
-            "name": "🔊 量子",
+            "name": "量子",
             "hosts": ["vip.lz", "hd.lz", "v.cdnlz"],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
@@ -623,22 +623,12 @@
             ]
         },
         {
-            "name": "🚀 非凡",
+            "name": "非凡",
             "hosts": ["vip.ffzy", "hd.ffzy"],
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
                 "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
             ]
-        },
-        {
-            "name": "火山嗅探",
-            "hosts": ["huoshan.com"],
-            "regex": ["item_id="]
-        },
-        {
-            "name": "抖音嗅探",
-            "hosts": ["douyin.com"],
-            "regex": ["is_play_url="]
         }
     ],
     "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
