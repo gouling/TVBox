@@ -329,7 +329,7 @@
         {
             "key": "快看影视",
             "name": "👀 快看",
-            "type": 3,
+            "type": 1,
             "api": "https://kuaikan-api.com/api.php/provide/vod/"
         },
         {
