@@ -28,7 +28,7 @@
             "key": "辣椒 ",
             "name": "辣椒",
             "type": 1,
-            "api": "https://apilj.com/api.php/provide/vod/at/xml/"
+            "api": "https://apilj.com/api.php/provide/vod/"
         },
         {
             "key": "jable.tv",
