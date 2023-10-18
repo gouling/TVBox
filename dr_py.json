@@ -467,6 +467,13 @@
             ]
         },
         {
+            "key": "映迷",
+            "name": "⚡️ 映迷",
+            "type": 1,
+            "api": "https://www.inmi.app/api.php/provide/vod/",
+            "categories": ["電影", "電視劇", "動漫", "綜藝"]
+        },
+        {
             "key": "低端",
             "name": "♻️ 低端",
             "type": 3,
