@@ -5,7 +5,7 @@
             "name": "🅱 豆瓣",
             "type": 3,
             "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/drpy.js",
+            "ext": "http://8.210.232.168/tv/box/js/douban.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
