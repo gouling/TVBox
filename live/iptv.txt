@@ -42,7 +42,7 @@ CCTV17,http://106.39.160.133/live.aishang.ctlcdn.com/00000110240326_1/playlist.m
 CHC动作电影,http://106.39.160.133/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC高清电影,http://106.39.160.133/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 CHC家庭影院,http://106.39.160.133/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
-CCTV1,https://cntv.sbs/tv?auth=2310201855&id=cctv1
+CCTV1,https://cntv.sbs/tv?auth=2310201856&id=cctv1
 CCTV2,https://cntv.sbs/tv?auth=2310201855&id=cctv2
 CCTV3,https://cntv.sbs/tv?auth=2310201855&id=cctv3
 CCTV4,https://cntv.sbs/tv?auth=2310201855&id=cctv4
