@@ -17,5 +17,5 @@ if (strlen($today) > 0) {
     $past = substr($iptv, stripos($iptv, 'auth=') + 5, stripos($iptv, '&id=') - stripos($iptv, 'auth=') - 5);
 
     file_put_contents('iptv.txt', str_ireplace($past, $today, $iptv));
-    printf("auth: %s->%s\n", $past, $today);
+    printf("iptv: %s->%s\n", $past, $today);
 }
