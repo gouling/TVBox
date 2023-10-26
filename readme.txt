@@ -29,7 +29,7 @@ tv=`curl http://tvbox.cdtyk.com/live/iptv.php`
 
 # 更新直播源 gouling.eu.org
 cd `dirname $0`
-echo "iptv: ${tv}"
+echo $tv
 git pull -f
-git commit -a -m "iptv ${tv}"
+git commit -a -m $tv
 git push origin master
