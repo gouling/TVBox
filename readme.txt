@@ -31,5 +31,5 @@ tv=`curl http://tvbox.cdtyk.com/live/iptv.php`
 cd `dirname $0`
 echo $tv
 git pull -f
-git commit -a -m $tv
+git commit -a -m "$tv"
 git push origin master
