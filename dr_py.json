@@ -727,9 +727,32 @@
             "url": "Sequence"
         },
         {
+            "name": "MY",
+            "type": 1,
+            "url": "http://api.888484.xyz/jiexi/%E7%B1%B3%E5%A4%AA%E7%A1%AC.php?url="
+        },
+        {
+            "name": "XH",
+            "type": 1,
+            "url": "http://xhww.fun:63/小米特别爱肥猫.php?url=",
+            "header": {
+                "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"
+            }
+        },
+        {
+            "name": "QJ",
+            "type": 1,
+            "url": "https://www.qiaoji8.com/tvbox/json1.php?url="
+        },
+        {
             "name": "FC",
             "type": 1,
             "url": "https://api.tyun77.cn/api.php/provide/parseDicturl?url="
+        },
+        {
+            "name": "YE",
+            "type": 1,
+            "url": "https://yinshi.eatuo.com/index.php/mvod/jx2?url="
         },
         {
             "name": "JP",
