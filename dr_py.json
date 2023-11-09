@@ -642,7 +642,7 @@
                     },
                     {
                         "name": "🗂 集中地",
-                        "server": "http://192.168.3.163:5244",
+                        "server": "http://192.168.0.163:5244",
                         "login": {
                             "username": "admin",
                             "password": "alist-pikpak-gouling"
