@@ -658,7 +658,7 @@
             "api": "csp_Wogg",
             "ext": {
                 "token": "./ali.token",
-                "filter": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
+                "filter": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
         {
