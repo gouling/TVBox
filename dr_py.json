@@ -706,13 +706,6 @@
             "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "明明",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/global.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "parses": [
