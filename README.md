@@ -2,10 +2,8 @@
 
 << EOF
 https://github.com/hjdhnx/dr_py.git
-https://download.kstore.space/download/2863/01.txt
 
 https://github.com/youshandefeiyang/LiveRedirect
-https://github.com/youshandefeiyang/live-Url
 https://github.com/fanmingming/live
 https://github.com/dlgt7/TVbox-interface/
 https://github.com/gaotianliuyun/gao
@@ -25,9 +23,11 @@ https://tuapi.eees.cc/api.php?category=fengjing&type=302
 EOF
 
 # 获取直播源
+
 tv=`curl http://tvbox.cdtyk.com/live/iptv.php`
 
 # 更新直播源 gouling.eu.org
+
 cd `dirname $0`
 echo $tv
 git pull -f
