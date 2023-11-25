@@ -234,6 +234,6 @@
             ]
         }
     ],
-    "spider": "https://ghps.cc/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+    "spider": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://bing.img.run/rand.php"
 }
