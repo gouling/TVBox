@@ -84,13 +84,6 @@ CCTV17,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3
 朝天综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel104601/playlist.m3u8
 剑阁综合,https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 港台,#genre#
-翡翠台,https://pi.0472.org/tv/fct.php?auth=231122
-明珠台,https://pi.0472.org/tv/mzt.php?auth=231122
-澳视澳门,https://pi.0472.org/tv/asam.php?auth=231122
-澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=231122
-香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-莲花卫视,https://cntv.sbs/tv/lhws.php
-人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 中天新聞,https://www.youtube.com/watch?v=oIgbl7t0S_w
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
 華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E

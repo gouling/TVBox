@@ -5,7 +5,7 @@
             "name": "🅱 豆瓣",
             "type": 3,
             "api": "csp_Douban",
-            "ext": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/douban.json",
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/douban.json",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0,
@@ -658,7 +658,7 @@
             "api": "csp_Wogg",
             "ext": {
                 "token": "./ali.token",
-                "filter": "https://raw.gitmirror.com/FongMi/CatVodSpider/main/json/wogg.json"
+                "filter": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/wogg.json"
             }
         },
         {
@@ -766,6 +766,6 @@
             "regex": ["25.0666"]
         }
     ],
-    "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://bing.img.run/rand.php"
 }

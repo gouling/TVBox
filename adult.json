@@ -234,6 +234,6 @@
             ]
         }
     ],
-    "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
+    "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://bing.img.run/rand.php"
 }
