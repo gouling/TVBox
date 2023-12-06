@@ -1,76 +1,50 @@
-央视,#genre#
-parse=1
-player=2
-CCTV1,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/383.html
-CCTV2,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/382.html
-CCTV3,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/381.html
-CCTV4,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/380.html
-CCTV5,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/379.html
-CCTV6,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/378.html
-CCTV7,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/377.html
-CCTV8,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/376.html
-CCTV9,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/375.html
-CCTV10,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/374.html
-CCTV11,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/373.html
-CCTV12,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/372.html
-CCTV13,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/371.html
-CCTV14,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/370.html
-CCTV15,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/369.html
-CCTV16,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/368.html
-CCTV17,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/367.html
 中国,#genre#
-CCTV1,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
-CCTV2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
-CCTV3,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
-CCTV4,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
-CCTV5,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
-CCTV5+,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-CCTV6,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
-CCTV7,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
-CCTV8,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
-CCTV9,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
-CCTV10,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
-CCTV11,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
-CCTV12,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
-CCTV14,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
-CCTV15,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
-CCTV16,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
-CCTV17,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+CCTV-1 综合频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/383.html
+CCTV-2 财经频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/382.html
+CCTV-3 综艺频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/381.html
+CCTV-4 中文国际频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/380.html
+CCTV-5 体育频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/379.html
+CCTV-6 电影频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/378.html
+CCTV-7 国防军事频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/377.html
+CCTV-8 电视剧频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/376.html
+CCTV-9 纪录频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/375.html
+CCTV-10 科教频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/374.html
+CCTV-11 戏曲频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/373.html
+CCTV-12 社会与法频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/372.html
+CCTV-13 新闻频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/371.html
+CCTV-14 少儿频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/370.html
+CCTV-15 音乐频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/369.html
+CCTV-16 体育赛事,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/368.html
+CCTV-17 农村农业频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/367.html
+北京卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/419.html
+天津卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/418.html
+东方卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/417.html
+重庆卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/416.html
+河北卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/415.html
+江苏卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/414.html
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
-吉林卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
-黑龙江卫视,http://120.196.232.24:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
-湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
-浙江卫视,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
-江苏卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
-安徽卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
-重庆卫视,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
-北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
-天津卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
-江西卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
-山东卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
-云南卫视,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226709/1.m3u8
-四川卫视,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
-河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
-深圳卫视,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
-湖北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
-东南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
-厦门卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226695/1.m3u8
-河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
-广西卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226681/1.m3u8
-山西卫视,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
-陕西卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226707/1.m3u8
-内蒙古卫视,http://120.196.232.39:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
-宁夏卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226691/1.m3u8
-西藏卫视,http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8
-新疆卫视,http://120.196.232.37:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226700/1.m3u8
-甘肃卫视,http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
-海南卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
-贵州卫视,http://120.196.232.23:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
-青海卫视,http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226696/1.m3u8
-兵团卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226661/1.m3u8
+浙江卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/413.html
+安徽卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/412.html
+东南卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/411.html
+江西卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/410.html 
+河南卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/409.html
+山东卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/408.html
+湖北卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/407.html 
+湖南卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/406.html
+广东卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/405.html
+广西卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/404.html
+海南卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/403.html
+四川卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/402.html
+贵州卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/401.html
+云南卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/400.html
+陕西卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/399.html
+甘肃卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/398.html
+青海卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/397.html
+宁夏卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/396.html
+山西卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/395.html
+辽宁卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/394.html
+吉林卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/393.html
 成都,#genre#
 新闻综合频道,http://tvbox.cdtyk.com/live/cdtv.php?name=新闻综合频道
 经济资讯频道,http://tvbox.cdtyk.com/live/cdtv.php?name=经济资讯频道
