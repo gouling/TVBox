@@ -1,3 +1,7 @@
+央视,#genre#
+parse=1
+player=2
+CCTV1,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/383.html
 中国,#genre#
 CCTV1,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV2,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
