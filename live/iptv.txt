@@ -1,21 +1,22 @@
 中国,#genre#
-CCTV-1 综合频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/383.html
-CCTV-2 财经频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/382.html
-CCTV-3 综艺频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/381.html
-CCTV-4 中文国际频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/380.html
-CCTV-5 体育频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/379.html
-CCTV-6 电影频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/378.html
-CCTV-7 国防军事频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/377.html
-CCTV-8 电视剧频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/376.html
-CCTV-9 纪录频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/375.html
-CCTV-10 科教频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/374.html
-CCTV-11 戏曲频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/373.html
-CCTV-12 社会与法频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/372.html
-CCTV-13 新闻频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/371.html
-CCTV-14 少儿频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/370.html
-CCTV-15 音乐频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/369.html
-CCTV-16 体育赛事,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/368.html
-CCTV-17 农村农业频道,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/367.html
+parse=1
+CCTV-1,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/383.html
+CCTV-2,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/382.html
+CCTV-3,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/381.html
+CCTV-4,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/380.html
+CCTV-5,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/379.html
+CCTV-6,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/378.html
+CCTV-7,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/377.html
+CCTV-8,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/376.html
+CCTV-9,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/375.html
+CCTV-10,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/374.html
+CCTV-11,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/373.html
+CCTV-12,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/372.html
+CCTV-13,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/371.html
+CCTV-14,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/370.html
+CCTV-15,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/369.html
+CCTV-16,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/368.html
+CCTV-17,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/367.html
 北京卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/419.html
 天津卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/418.html
 东方卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/417.html
@@ -46,12 +47,12 @@ CCTV-17 农村农业频道,http://www.yangshizhibo.com/dianshizhibo/yangshipinda
 辽宁卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/394.html
 吉林卫视,http://www.yangshizhibo.com/dianshizhibo/weishipindao/393.html
 成都,#genre#
-新闻综合频道,http://tvbox.cdtyk.com/live/cdtv.php?name=新闻综合频道
-经济资讯频道,http://tvbox.cdtyk.com/live/cdtv.php?name=经济资讯频道
-都市生活频道,http://tvbox.cdtyk.com/live/cdtv.php?name=都市生活频道
-影视文艺频道,http://tvbox.cdtyk.com/live/cdtv.php?name=影视文艺频道
-公共频道,http://tvbox.cdtyk.com/live/cdtv.php?name=公共频道
-少儿频道,http://tvbox.cdtyk.com/live/cdtv.php?name=少儿频道
+CDTV-1 新闻综合频道,http://tvbox.cdtyk.com/live/cdtv.php?name=新闻综合频道
+CDTV-2 经济资讯频道,http://tvbox.cdtyk.com/live/cdtv.php?name=经济资讯频道
+CDTV-3 都市生活频道,http://tvbox.cdtyk.com/live/cdtv.php?name=都市生活频道
+CDTV-4 影视文艺频道,http://tvbox.cdtyk.com/live/cdtv.php?name=影视文艺频道
+CDTV-5 公共频道,http://tvbox.cdtyk.com/live/cdtv.php?name=公共频道
+CDTV-6 少儿频道,http://tvbox.cdtyk.com/live/cdtv.php?name=少儿频道
 彭州市广播电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=彭州市广播电视台
 新津电视台,http://tvbox.cdtyk.com/live/cdtv.php?name=新津电视台
 青白江融媒体中心,http://tvbox.cdtyk.com/live/cdtv.php?name=青白江融媒体中心
