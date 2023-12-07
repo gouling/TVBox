@@ -17,10 +17,6 @@ https://api.biuioi.com/random-picture/index.php
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
 EOF
 
-# 获取直播源
-
-tv=`curl http://tvbox.cdtyk.com/live/iptv.php`
-
 # 更新直播源 gouling.eu.org
 
 cd `dirname $0`
