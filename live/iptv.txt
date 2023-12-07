@@ -1,5 +1,4 @@
 默认,#genre#
-player=1
 CCTV-1,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-2,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 CCTV-3,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
