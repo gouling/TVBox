@@ -17,10 +17,8 @@ https://api.biuioi.com/random-picture/index.php
 https://tuapi.eees.cc/api.php?category=fengjing&type=302
 EOF
 
-# 更新直播源 gouling.eu.org
+# 从 github 拉取新代码
 
 cd `dirname $0`
 echo $tv
 git pull -f
-git commit -a -m "$tv"
-git push origin master
