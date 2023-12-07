@@ -1,5 +1,5 @@
 中国,#genre#
-CCTV-1,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/383.html
+CCTV-1,http://cfss.cc/api/ysp/cctv1.m3u8
 CCTV-2,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/382.html
 CCTV-3,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/381.html
 CCTV-4,http://www.yangshizhibo.com/dianshizhibo/yangshipindao/380.html
