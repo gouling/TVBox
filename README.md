@@ -2,9 +2,7 @@
 
 << EOF
 https://github.com/hjdhnx/dr_py.git
-
 https://github.com/gaotianliuyun/gao
-https://github.com/mcp2016/TVBox
 
 https://www.similarweb.com/top-websites/category/adult/
 https://qiqi2020.lanzoub.com/b09svqv1c
