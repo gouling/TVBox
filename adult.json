@@ -45,13 +45,13 @@
 
         {
             "key": "apilj.com",
-            "name": "03 | PROXY",
+            "name": "03 | Proxy",
             "type": 1,
             "api": "https://apilj.com/api.php/provide/vod/"
         },
         {
             "key": "91md.me",
-            "name": "04 | PROXY",
+            "name": "04 | Proxy",
             "type": 1,
             "api": "http://91md.me/api.php/provide/vod/"
         },
@@ -93,13 +93,13 @@
         },
         {
             "key": "fhapi9.com",
-            "name": "12 | PROXY",
+            "name": "12 | Proxy",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/"
         },
         {
             "key": "lbapiby.com",
-            "name": "14 | PROXY",
+            "name": "14 | Proxy",
             "type": 0,
             "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
         },
@@ -111,7 +111,7 @@
         },
         {
             "key": "apittzy.com",
-            "name": "25 | PROXY",
+            "name": "25 | Proxy",
             "type": 1,
             "api": "https://apittzy.com/api.php/provide/vod/"
         },
@@ -123,7 +123,7 @@
         },
         {
             "key": "madouse.la",
-            "name": "27 | PROXY",
+            "name": "27 | Proxy",
             "type": 1,
             "api": "http://madouse.la/api.php/provide/vod/"
         },
@@ -153,13 +153,13 @@
         },
         {
             "key": "888dav.com",
-            "name": "35 | PROXY",
+            "name": "35 | Proxy",
             "type": 1,
             "api": "https://www.888dav.com/api.php/provide/vod/"
         },
         {
             "key": "afasu.com",
-            "name": "37 | PROXY",
+            "name": "37 | Proxy",
             "type": 0,
             "api": "https://www.afasu.com/api/xml.php"
         },
