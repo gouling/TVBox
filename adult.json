@@ -92,40 +92,10 @@
             "api": "http://f2dcj6.com/sapi?ac=videolist"
         },
         {
-            "key": "fhapi9.com",
-            "name": "12 | Proxy",
-            "type": 1,
-            "api": "http://fhapi9.com/api.php/provide/vod/"
-        },
-        {
-            "key": "lbapiby.com",
-            "name": "14 | Proxy",
-            "type": 0,
-            "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-        },
-        {
-            "key": "caiji.huakuiapi.com",
-            "name": "18 | Void",
-            "type": 1,
-            "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
-        },
-        {
-            "key": "apittzy.com",
-            "name": "25 | Proxy",
-            "type": 1,
-            "api": "https://apittzy.com/api.php/provide/vod/"
-        },
-        {
             "key": "feifei67.com",
             "name": "26",
             "type": 1,
             "api": "http://www.feifei67.com/api.php/provide/vod/"
-        },
-        {
-            "key": "madouse.la",
-            "name": "27 | Proxy",
-            "type": 1,
-            "api": "http://madouse.la/api.php/provide/vod/"
         },
         {
             "key": "xrbsp.com",
@@ -152,12 +122,6 @@
             "api": "https://kkzy.me/api.php/provide/vod/"
         },
         {
-            "key": "888dav.com",
-            "name": "35 | Proxy",
-            "type": 1,
-            "api": "https://www.888dav.com/api.php/provide/vod/"
-        },
-        {
             "key": "afasu.com",
             "name": "37 | Proxy",
             "type": 0,
@@ -174,12 +138,6 @@
             "name": "40",
             "type": 0,
             "api": "https://www.pgxdy.com/api/xml.php"
-        },
-        {
-            "key": "lbapi9.com",
-            "name": "44 | Void",
-            "type": 1,
-            "api": "https://lbapi9.com/api.php/provide/vod/"
         },
         {
             "key": "kxgav.com",
