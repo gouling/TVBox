@@ -45,9 +45,21 @@
 
         {
             "key": "apilj.com",
-            "name": "03",
+            "name": "03 | PROXY",
             "type": 1,
             "api": "https://apilj.com/api.php/provide/vod/"
+        },
+        {
+            "key": "91md.me",
+            "name": "04 | PROXY",
+            "type": 1,
+            "api": "http://91md.me/api.php/provide/vod/"
+        },
+        {
+            "key": "jcspcj8.com",
+            "name": "05",
+            "type": 0,
+            "api": "http://jcspcj8.com/api?ac=videolist"
         },
         {
             "key": "cjmygzy.com",
@@ -68,6 +80,12 @@
             "api": "http://api.sexnguon.com/api.php/provide/vod/"
         },
         {
+            "key": "llzxcj.com",
+            "name": "09",
+            "type": 0,
+            "api": "http://llzxcj.com/inc/sck.php?ac=videolist"
+        },
+        {
             "key": "f2dcj6.com",
             "name": "11",
             "type": 0,
@@ -80,12 +98,22 @@
             "api": "http://fhapi9.com/api.php/provide/vod/"
         },
         {
-            "key": "ggmmzy.com",
-            "name": "15",
+            "key": "lbapiby.com",
+            "name": "14",
             "type": 0,
-            "api": "http://www.ggmmzy.com:9999/inc/xml",
-            "searchable": 0,
-            "quickSearch": 0
+            "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "caiji.huakuiapi.com",
+            "name": "18",
+            "type": 1,
+            "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
+        },
+        {
+            "key": "apittzy.com",
+            "name": "25 | PROXY",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/"
         },
         {
             "key": "feifei67.com",
@@ -95,7 +123,7 @@
         },
         {
             "key": "madouse.la",
-            "name": "27",
+            "name": "27 | PROXY",
             "type": 1,
             "api": "http://madouse.la/api.php/provide/vod/"
         },
@@ -125,7 +153,7 @@
         },
         {
             "key": "888dav.com",
-            "name": "35",
+            "name": "35 | PROXY",
             "type": 1,
             "api": "https://www.888dav.com/api.php/provide/vod/"
         },
@@ -177,63 +205,5 @@
             "type": 1,
             "api": "https://api.apilyzy.com/api.php/provide/vod/"
         }
-    ],
-    "lives": [
-        {
-            "name": "默认",
-            "type": 0,
-            "playerType": 1,
-            "ua": "okhttp/4.11.0",
-            "url": "./live/iptv.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "南风",
-            "type": 0,
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "明明",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/global.m3u",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
-    "rules": [
-        {
-            "name": "索尼",
-            "hosts": ["suonizy"],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "暴風",
-            "hosts": ["bfzy"],
-            "regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]
-        },
-        {
-            "name": "量子",
-            "hosts": ["vip.lz", "hd.lz", "v.cdnlz"],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        },
-        {
-            "name": "非凡",
-            "hosts": ["vip.ffzy", "hd.ffzy"],
-            "regex": [
-                "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
-                "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
-            ]
-        }
-    ],
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-    "wallpaper": "https://bing.img.run/rand.php"
+    ]
 }
