@@ -93,25 +93,25 @@
         },
         {
             "key": "fhapi9.com",
-            "name": "12",
+            "name": "12 | Void",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/"
         },
         {
             "key": "lbapiby.com",
-            "name": "14",
+            "name": "14 | Void",
             "type": 0,
             "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
         },
         {
             "key": "caiji.huakuiapi.com",
-            "name": "18",
+            "name": "18 | Void",
             "type": 1,
             "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
         },
         {
             "key": "apittzy.com",
-            "name": "25",
+            "name": "25 | Void",
             "type": 1,
             "api": "https://apittzy.com/api.php/provide/vod/"
         },
@@ -123,7 +123,7 @@
         },
         {
             "key": "madouse.la",
-            "name": "27 | Proxy",
+            "name": "27",
             "type": 1,
             "api": "http://madouse.la/api.php/provide/vod/"
         },
@@ -152,12 +152,6 @@
             "api": "https://kkzy.me/api.php/provide/vod/"
         },
         {
-            "key": "888dav.com",
-            "name": "35",
-            "type": 1,
-            "api": "https://www.888dav.com/api.php/provide/vod/"
-        },
-        {
             "key": "afasu.com",
             "name": "37",
             "type": 0,
@@ -177,7 +171,7 @@
         },
         {
             "key": "lbapi9.com",
-            "name": "44",
+            "name": "44 | Void",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/"
         },
