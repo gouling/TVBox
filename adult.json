@@ -93,13 +93,13 @@
         },
         {
             "key": "fhapi9.com",
-            "name": "12",
+            "name": "12 | PROXY",
             "type": 1,
             "api": "http://fhapi9.com/api.php/provide/vod/"
         },
         {
             "key": "lbapiby.com",
-            "name": "14",
+            "name": "14 | PROXY",
             "type": 0,
             "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
         },
@@ -159,7 +159,7 @@
         },
         {
             "key": "afasu.com",
-            "name": "37",
+            "name": "37 | PROXY",
             "type": 0,
             "api": "https://www.afasu.com/api/xml.php"
         },
