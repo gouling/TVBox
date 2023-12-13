@@ -676,30 +676,38 @@
         },
         {
             "key": "七夜",
-            "name": "😾 七夜",
+            "name": "🔍 七夜",
             "type": 3,
             "api": "csp_Dovx",
             "ext": "./ali.token"
         },
         {
-            "key": "阿里盘搜",
-            "name": "🦌 盘搜",
+            "key": "YiSo",
+            "name": "🔍 易搜",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "changeable": 0
+        },
+        {
+            "key": "Yun",
+            "name": "🔍 云搜",
+            "type": 3,
+            "api": "csp_UpYun",
+            "ext": "./ali.token"
+        },
+        {
+            "key": "PanSou",
+            "name": "🔍 盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "ext": "./ali.token"
         },
         {
             "key": "PanSearch",
-            "name": "🙀 盘搜",
+            "name": "🔍 盘搜",
             "type": 3,
             "api": "csp_PanSearch",
-            "ext": "./ali.token"
-        },
-        {
-            "key": "阿里云搜",
-            "name": "☁️ 云搜",
-            "type": 3,
-            "api": "csp_UpYun",
             "ext": "./ali.token"
         }
     ],
