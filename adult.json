@@ -105,7 +105,7 @@
         },
         {
             "key": "caiji.huakuiapi.com",
-            "name": "18 | VOID",
+            "name": "18 | Void",
             "type": 1,
             "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
         },
@@ -177,7 +177,7 @@
         },
         {
             "key": "lbapi9.com",
-            "name": "44 | VOID",
+            "name": "44 | Void",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/"
         },
