@@ -26,13 +26,13 @@
         },
         {
             "key": "jable.tv",
-            "name": "JABLE",
+            "name": "JABLE | Search",
             "type": 3,
             "api": "csp_Jable"
         },
         {
             "key": "MissAV",
-            "name": "MISSAV",
+            "name": "MISSAV | Search",
             "type": 3,
             "api": "csp_Miss"
         },
@@ -105,7 +105,7 @@
         },
         {
             "key": "caiji.huakuiapi.com",
-            "name": "18",
+            "name": "18 | VOID",
             "type": 1,
             "api": "https://caiji.huakuiapi.com/inc/apijson_vod.php"
         },
@@ -177,7 +177,7 @@
         },
         {
             "key": "lbapi9.com",
-            "name": "44",
+            "name": "44 | VOID",
             "type": 1,
             "api": "https://lbapi9.com/api.php/provide/vod/"
         },
@@ -224,6 +224,5 @@
             ]
         }
     ],
-    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-    "wallpaper": "https://bing.img.run/rand.php"
+    "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
 }
