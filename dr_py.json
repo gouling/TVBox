@@ -685,9 +685,7 @@
             "key": "YiSo",
             "name": "🔍 易搜",
             "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "changeable": 0
+            "api": "csp_YiSo"
         },
         {
             "key": "Yun",
