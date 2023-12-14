@@ -45,7 +45,7 @@
 
         {
             "key": "apilj.com",
-            "name": "03",
+            "name": "03 | PROXY",
             "type": 1,
             "api": "https://apilj.com/api.php/provide/vod/"
         },
@@ -99,7 +99,7 @@
         },
         {
             "key": "madouse.la",
-            "name": "27",
+            "name": "27 | PROXY",
             "type": 1,
             "api": "http://madouse.la/api.php/provide/vod/"
         },
