@@ -45,7 +45,7 @@
 
         {
             "key": "apilj.com",
-            "name": "03 | PROXY",
+            "name": "03",
             "type": 1,
             "api": "https://apilj.com/api.php/provide/vod/"
         },
