@@ -17,5 +17,8 @@ EOF
 # 从 github 拉取新代码
 
 cd `dirname $0`
-echo $tv
 git pull -f
+
+cp /etc/xiaoya/mytoken.txt ali.token
+git commit -a -m "ali.token"
+git push origin master
