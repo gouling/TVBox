@@ -103,6 +103,36 @@
             "api": "http://f2dcj6.com/sapi?ac=videolist"
         },
         {
+            "key": "wmcj8.com",
+            "name": "12",
+            "type": 0,
+            "api": "http://wmcj8.com/inc/sapi.php"
+        },
+        {
+            "key": "mygzycj.com",
+            "name": "13",
+            "type": 0,
+            "api": "http://mygzycj.com/api.php?ac=list"
+        },
+        {
+            "key": "api.11bat.com",
+            "name": "15",
+            "type": 0,
+            "api": "http://api.11bat.com/api.php/provide/vod/at/xml"
+        },
+        {
+            "key": "apittzy.com",
+            "name": "18",
+            "type": 1,
+            "api": "https://apittzy.com/api.php/provide/vod/"
+        },
+        {
+            "key": "lbapi9.com",
+            "name": "成人26",
+            "type": 1,
+            "api": "https://lbapi9.com/api.php/provide/vod/"
+        },
+        {
             "key": "feifei67.com",
             "name": "26",
             "type": 1,
