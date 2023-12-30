@@ -91,6 +91,12 @@
             "api": "http://llzxcj.com/inc/sck.php?ac=videolist"
         },
         {
+            "key": "99zywcj.com",
+            "name": "10",
+            "type": 0,
+            "api": "http://99zywcj.com/inc/sapi.php?ac=videolist"
+        },
+        {
             "key": "f2dcj6.com",
             "name": "11",
             "type": 0,
@@ -101,12 +107,6 @@
             "name": "26",
             "type": 1,
             "api": "http://www.feifei67.com/api.php/provide/vod/"
-        },
-        {
-            "key": "madouse.la",
-            "name": "27 | PROXY",
-            "type": 1,
-            "api": "http://madouse.la/api.php/provide/vod/"
         },
         {
             "key": "xrbsp.com",
