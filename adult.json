@@ -26,13 +26,13 @@
         },
         {
             "key": "jable.tv",
-            "name": "JABLE | Search",
+            "name": "JABLE",
             "type": 3,
             "api": "csp_Jable"
         },
         {
             "key": "MissAV",
-            "name": "MISSAV | Search",
+            "name": "MISSAV",
             "type": 3,
             "api": "csp_Miss"
         },
@@ -42,7 +42,12 @@
             "type": 0,
             "api": "http://dadiapi.com/api.php"
         },
-
+        {
+            "key": "zmcj88.com",
+            "name": "02",
+            "type": 0,
+            "api": "http://zmcj88.com/sapi?ac=videolist"
+        },
         {
             "key": "apilj.com",
             "name": "03",
