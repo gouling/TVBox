@@ -187,6 +187,13 @@
             "api": "https://api.apilyzy.com/api.php/provide/vod/"
         }
     ],
+    "lives": [
+        {
+            "name": "默认",
+            "type": 0,
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.m3u"
+        }
+    ],
     "rules": [
         {
             "name": "索尼",
