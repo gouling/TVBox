@@ -565,13 +565,6 @@
             "ext": "https://hjdhnx.github.io/dr_py/js/乐鱼影视.js"
         },
         {
-            "key": "零度影视",
-            "name": "🌡 零度",
-            "type": 3,
-            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/零度影视.js"
-        },
-        {
             "key": "新视觉",
             "name": "👓 视觉",
             "type": 3,
@@ -579,11 +572,11 @@
             "ext": "https://hjdhnx.github.io/dr_py/js/新视觉影视.js"
         },
         {
-            "key": "酷客影院",
-            "name": "🕶 酷客",
+            "key": "腾讯",
+            "name": "🐧 腾讯",
             "type": 3,
             "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/酷客影院.js"
+            "ext": "https://hjdhnx.github.io/dr_py/js/腾云驾雾.js"
         },
         {
             "key": "优酷",
@@ -591,13 +584,6 @@
             "type": 3,
             "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
             "ext": "https://hjdhnx.github.io/dr_py/js/优酷.js"
-        },
-        {
-            "key": "腾讯",
-            "name": "🐧 腾讯",
-            "type": 3,
-            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/腾云驾雾.js"
         },
         {
             "key": "爱奇艺",
