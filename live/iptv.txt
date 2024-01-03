@@ -1,11 +1,7 @@
 默认,#genre#
 parse=1
-CCTV-1,https://yangshipin.cn/#/tv/home?pid=600001859
-CCTV-2,https://yangshipin.cn/#/tv/home?pid=600001800
-CCTV-4,https://yangshipin.cn/#/tv/home?pid=600001814
-CCTV-7,https://yangshipin.cn/#/tv/home?pid=600004092
-CCTV-9,https://yangshipin.cn/#/tv/home?pid=600004078
-CCTV-10,https://yangshipin.cn/#/tv/home?pid=600001805
+广东卫视,https://m.gdtv.cn/tvChannelDetail/43
+广东珠江,https://m.gdtv.cn/tvChannelDetail/44
 成都,#genre#
 CDTV-1 新闻综合频道,http://tvbox.cdtyk.com/live/cdtv.php?name=新闻综合频道
 CDTV-2 经济资讯频道,http://tvbox.cdtyk.com/live/cdtv.php?name=经济资讯频道
