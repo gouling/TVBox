@@ -2,6 +2,8 @@
 CCTV-1,video://https://yangshipin.cn/#/tv/home?pid=600001859
 CCTV-2,video://https://yangshipin.cn/#/tv/home?pid=600001800
 CCTV-4,video://https://yangshipin.cn/#/tv/home?pid=600001814
+CCTV-7,video://https://yangshipin.cn/#/tv/home?pid=600004092
+CCTV-9,video://https://yangshipin.cn/#/tv/home?pid=600004078
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 成都,#genre#
