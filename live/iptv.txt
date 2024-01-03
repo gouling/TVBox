@@ -23,7 +23,6 @@ CCTV 女性时尚,https://tv.smart-chat.net/iptv.php?id=103200&num=1
 CHC家庭影院,https://tv.smart-chat.net/iptv.php?id=600100&num=1
 CHC动作电影,https://tv.smart-chat.net/iptv.php?id=600200&num=1
 CHC高清电影,https://tv.smart-chat.net/iptv.php?id=600300&num=1
-科幻电影,https://tv.smart-chat.net/iptv.php?id=600600&num=1
 华语影院,https://tv.smart-chat.net/iptv.php?id=600800&num=1
 欢笑剧场,https://tv.smart-chat.net/iptv.php?id=401500&num=2
 浙江卫视,https://tv.smart-chat.net/iptv.php?id=200200&num=1
@@ -57,7 +56,7 @@ CHC高清电影,https://tv.smart-chat.net/iptv.php?id=600300&num=1
 康巴卫视,https://tv.smart-chat.net/iptv.php?id=203700&num=1
 金鹰卡通,https://tv.smart-chat.net/iptv.php?id=204000&num=1
 广东影视,https://tv.smart-chat.net/iptv.php?id=300700&num=1
-广西影视,https://tv.smart-chat.net/iptv.php?id=301600&num=1
+广西影视,https://tv.smart-chat.net/iptv.php?id=301600&num=2
 成都,#genre#
 CDTV-1 新闻综合频道,http://tvbox.cdtyk.com/live/cdtv.php?name=新闻综合频道
 CDTV-2 经济资讯频道,http://tvbox.cdtyk.com/live/cdtv.php?name=经济资讯频道
