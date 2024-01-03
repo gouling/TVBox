@@ -1,5 +1,8 @@
 默认,#genre#
 parse=1
+player=2
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+referer=https://m.gdtv.cn
 广东卫视,https://m.gdtv.cn/tvChannelDetail/43
 广东珠江,https://m.gdtv.cn/tvChannelDetail/44
 成都,#genre#
