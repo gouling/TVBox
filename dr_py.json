@@ -737,11 +737,9 @@
         {
             "name": "默认",
             "type": 0,
-            "ua": "okhttp/4.11.0",
             "url": "./live/iptv.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png",
-            "playerType": 1
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "parses": [

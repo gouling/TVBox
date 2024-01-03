@@ -1,10 +1,30 @@
-默认,#genre#
+广东地方,#genre#
 parse=1
 player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 referer=https://m.gdtv.cn
 广东卫视,https://m.gdtv.cn/tvChannelDetail/43
 广东珠江,https://m.gdtv.cn/tvChannelDetail/44
+广东新闻,https://m.gdtv.cn/tvChannelDetail/45
+广东民生,https://m.gdtv.cn/tvChannelDetail/48
+广东体育,https://m.gdtv.cn/tvChannelDetail/47
+大湾区卫视,https://m.gdtv.cn/tvChannelDetail/51
+大湾区卫视海外,https://m.gdtv.cn/tvChannelDetail/46
+经济科教,https://m.gdtv.cn/tvChannelDetail/49
+广东影视,https://m.gdtv.cn/tvChannelDetail/53
+4K超高清,https://m.gdtv.cn/tvChannelDetail/16
+广东少儿,https://m.gdtv.cn/tvChannelDetail/54
+嘉佳卡通,https://m.gdtv.cn/tvChannelDetail/66
+南方购物,https://m.gdtv.cn/tvChannelDetail/42
+岭南戏曲,https://m.gdtv.cn/tvChannelDetail/15
+现代教育,https://m.gdtv.cn/tvChannelDetail/13
+广东移动,https://m.gdtv.cn/tvChannelDetail/74
+荔枝台,https://m.gdtv.cn/tvChannelDetail/100
+纪录片,https://m.gdtv.cn/tvChannelDetail/94
+GRTN健康频道,https://m.gdtv.cn/tvChannelDetail/99
+GRTN文化频道,https://m.gdtv.cn/tvChannelDetail/75
+GRTN生活频道,https://m.gdtv.cn/tvChannelDetail/102
+GRTN教育频道,https://m.gdtv.cn/tvChannelDetail/104
 成都,#genre#
 CDTV-1 新闻综合频道,http://tvbox.cdtyk.com/live/cdtv.php?name=新闻综合频道
 CDTV-2 经济资讯频道,http://tvbox.cdtyk.com/live/cdtv.php?name=经济资讯频道
