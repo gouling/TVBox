@@ -737,14 +737,14 @@
         {
             "name": "默认",
             "type": 0,
-            "url": "https://tv.smart-chat.net/iptv.txt",
+            "url": "./live/iptv.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
         {
-            "name": "本地",
+            "name": "网络",
             "type": 0,
-            "url": "./live/iptv.txt",
+            "url": "https://tv.smart-chat.net/iptv.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
