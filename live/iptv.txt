@@ -1,6 +1,5 @@
 广东,#genre#
 parse=1
-player=2
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 referer=https://m.gdtv.cn
 广东卫视,https://m.gdtv.cn/tvChannelDetail/43
@@ -8,8 +7,6 @@ referer=https://m.gdtv.cn
 广东新闻,https://m.gdtv.cn/tvChannelDetail/45
 广东民生,https://m.gdtv.cn/tvChannelDetail/48
 广东体育,https://m.gdtv.cn/tvChannelDetail/47
-大湾区卫视,https://m.gdtv.cn/tvChannelDetail/51
-大湾区卫视海外,https://m.gdtv.cn/tvChannelDetail/46
 经济科教,https://m.gdtv.cn/tvChannelDetail/49
 广东影视,https://m.gdtv.cn/tvChannelDetail/53
 4K超高清,https://m.gdtv.cn/tvChannelDetail/16
