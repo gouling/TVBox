@@ -12,6 +12,12 @@
             "changeable": 0
         },
         {
+            "key": "新版6V",
+            "name": "🧲 新磁",
+            "type": 3,
+            "api": "csp_Xb6v"
+        },
+        {
             "key": "玖陆",
             "name": "⚡️ 玖陆",
             "type": 3,
@@ -559,13 +565,6 @@
             "type": 3,
             "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
             "ext": "https://hjdhnx.github.io/dr_py/js/voflix.js"
-        },
-        {
-            "key": "新版6V",
-            "name": "🧲 磁力",
-            "type": 3,
-            "api": "https://hjdhnx.github.io/dr_py/libs/drpy2.min.js",
-            "ext": "https://hjdhnx.github.io/dr_py/js/6V新版[磁].js"
         },
         {
             "key": "凌云影视",
