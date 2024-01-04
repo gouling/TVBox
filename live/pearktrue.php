@@ -20,7 +20,7 @@ function getUri(array $list)
         /**
          * 优先源
          */
-        foreach (['hrare.gnway.cc', 'iptv.luas.edu.cn'] as $keyword) {
+        foreach (['hrare.gnway.cc'] as $keyword) {
             if (stripos($val->link, $keyword) !== false) {
                 return $val->link;
             }
