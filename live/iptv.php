@@ -1,8 +1,3 @@
 <?php
-$context = ['ssl' => [
-    'verify_peer' => false,
-    'verify_peer_name' => false,
-]];
-
-$id = $_GET['id'];
+$id = $argv[1] ?? $_GET['id'] ?? '100100';
 header(sprintf('Location: https://tv.smart-chat.net/iptv.php?id=%s&num=1', $id));

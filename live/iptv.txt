@@ -1,4 +1,5 @@
 默认,#genre#
+CCTV-1,http://tvbox.cdtyk.com/live/yangshipin.php?id=cctv-1
 CCTV-1,http://tvbox.cdtyk.com/live/iptv.php?id=100100
 CCTV-2,http://tvbox.cdtyk.com/live/iptv.php?id=100200
 CCTV-3,http://tvbox.cdtyk.com/live/iptv.php?id=100300
