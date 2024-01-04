@@ -115,13 +115,9 @@ class TV
         try {
             if ($response = json_decode(curl_exec($this->__request))) {
                 if ($response->code == 0) {
-                    $uri = explode(sprintf('%s.m3u8', self::YSP_CHANNEL[$this->__id]), $response->data->playurl)[0];
-                    $res = @file_get_contents($response->data->playurl);
-                    header("Content-Type: application/vnd.apple.mpegurl");
-                    header("Content-Disposition: inline; filename=index.m3u8");
-                    echo preg_replace("/(.*?.ts)/", $uri . "$1", $res);
+                    return sprintf('%s', $response->data->playurl);
                 } else if ($this->__arg->retry++ < self::YSP_RETRY) {
-                    $this->getUri();
+                    return $this->getUri();
                 }
             }
         } finally {
@@ -181,4 +177,4 @@ class TV
 
 $id = $argv[1] ?? $_GET['id'] ?? 'cctv-1';
 $tv = new TV($id);
-$tv->getUri();
+header(sprintf('Location: %s', $tv->getUri()));
