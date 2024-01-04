@@ -23,7 +23,6 @@ CHC高清电影,http://tvbox.cdtyk.com/live/iptv.php?id=600300
 第一剧场,http://tvbox.cdtyk.com/live/iptv.php?id=102500
 风云剧场,http://tvbox.cdtyk.com/live/iptv.php?id=102600
 女性时尚,http://tvbox.cdtyk.com/live/iptv.php?id=103200
-华语影院,http://tvbox.cdtyk.com/live/iptv.php?id=600800
 欢笑剧场,http://tvbox.cdtyk.com/live/iptv.php?id=401500
 浙江卫视,http://tvbox.cdtyk.com/live/iptv.php?id=200200
 湖南卫视,http://tvbox.cdtyk.com/live/iptv.php?id=200100
