@@ -635,13 +635,6 @@
             "url": "./live/iptv.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "网络",
-            "type": 0,
-            "url": "https://tv.smart-chat.net/iptv.txt",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
     "parses": [
