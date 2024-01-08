@@ -1,5 +1,3 @@
-央视,#genre#
-CCTV-1,video://https://yangshipin.cn/#/tv/home?pid=600001859
 默认,#genre#
 CCTV-1,http://tvbox.cdtyk.com/live/pearktrue.php?name=CCTV1
 CCTV-2,http://tvbox.cdtyk.com/live/pearktrue.php?name=CCTV2
