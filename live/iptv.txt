@@ -153,3 +153,6 @@ TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 大愛二臺,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
+央视,#genre#
+parse=1
+https://yangshipin.cn/#/tv/home?pid=600002264
