@@ -155,4 +155,4 @@ TVBS新聞台,https://www.youtube.com/watch?v=2mCSYvcfhtc
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 央视,#genre#
 parse=1
-https://yangshipin.cn/#/tv/home?pid=600002264
+CCTV4K,https://yangshipin.cn/#/tv/home?pid=600002264
