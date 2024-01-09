@@ -628,6 +628,51 @@
     ],
     "lives": [
         {
+            "name": "四川",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/4.11.0",
+            "url": "https://gyssi.link/iptv/chinaiptv/四川省.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU2MzgyODQyMDUsImlhdCI6MTcwNDc3NTc0OSwiZXhwIjoxNzA3MzY3NzQ5fQ.8Y-nUjOXREwBfb7eTVWyJMtu_P7InCmuoc7HfzZtUno",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "重庆",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/4.11.0",
+            "url": "https://gyssi.link/iptv/chinaiptv/重庆市.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU2MzgyODQyMDUsImlhdCI6MTcwNDc3NTc0OSwiZXhwIjoxNzA3MzY3NzQ5fQ.8Y-nUjOXREwBfb7eTVWyJMtu_P7InCmuoc7HfzZtUno",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "北京",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/4.11.0",
+            "url": "https://gyssi.link/iptv/chinaiptv/北京市.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU2MzgyODQyMDUsImlhdCI6MTcwNDc3NTc0OSwiZXhwIjoxNzA3MzY3NzQ5fQ.8Y-nUjOXREwBfb7eTVWyJMtu_P7InCmuoc7HfzZtUno",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "上海",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/4.11.0",
+            "url": "https://gyssi.link/iptv/chinaiptv/上海市.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU2MzgyODQyMDUsImlhdCI6MTcwNDc3NTc0OSwiZXhwIjoxNzA3MzY3NzQ5fQ.8Y-nUjOXREwBfb7eTVWyJMtu_P7InCmuoc7HfzZtUno",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
+            "name": "云南",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/4.11.0",
+            "url": "https://gyssi.link/iptv/chinaiptv/云南省.m3u?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjU2MzgyODQyMDUsImlhdCI6MTcwNDc3NTc0OSwiZXhwIjoxNzA3MzY3NzQ5fQ.8Y-nUjOXREwBfb7eTVWyJMtu_P7InCmuoc7HfzZtUno",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+        {
             "name": "默认",
             "type": 0,
             "playerType": 1,
