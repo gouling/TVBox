@@ -32,11 +32,20 @@ $live = [
     '高新电视台' => 'https://cstvweb.cdmp.candocloud.cn/live/getLiveUrl?url=https://quxian.pull.cditv.cn/live/gaoxin.flv/playlist.m3u8'
 ];
 
-$name = $_GET['name'];
+$name = $argv[1] ?? $_GET['name'] ?? '新闻综合频道';
 if (isset($live[$name])) {
     if ($info = json_decode(@file_get_contents($live[$name], false, stream_context_create($context)))) {
         if ($info->code == 0) {
-            header(sprintf('Location: %s', $info->data->url));
+            $res = @file_get_contents($info->data->url, false, stream_context_create([
+                'ssl' => [
+                    'verify_peer' => false,
+                    'verify_peer_name' => false,
+                ]
+            ]));
+
+            header('Content-Type: application/vnd.apple.mpegurl');
+            header('Content-Disposition: inline; filename=index.m3u8');
+            print_r($res);
         }
     }
 }
