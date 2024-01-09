@@ -93,6 +93,20 @@ class TV
         }
     }
 
+    public function getM3U()
+    {
+        $uri = $this->getUri();
+        $res = @file_get_contents($uri, false, stream_context_create([
+            'ssl' => [
+                'verify_peer' => false,
+                'verify_peer_name' => false,
+            ]
+        ]));
+        $cdn = explode(sprintf('%s.m3u8', self::YSP_CHANNEL[$this->__name]), $uri);
+
+        return preg_replace('/(.*?.ts)/', array_shift($cdn) . '$1', $res);
+    }
+
     public function getUri()
     {
         $this->__arg->time = time();
@@ -175,6 +189,9 @@ class TV
     }
 }
 
-$name = $argv[1] ?? $_GET['name'] ?? 'CCTV-1';
+$name = $argv[1] ?? $_GET['name'] ?? 'CCTV1';
 $tv = new TV($name);
-header(sprintf('Location: %s', $tv->getUri()));
+
+header('Content-Type: application/vnd.apple.mpegurl');
+header('Content-Disposition: inline; filename=index.m3u8');
+print_r($tv->getM3U());
